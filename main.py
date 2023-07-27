@@ -1,6 +1,4 @@
 import gradio as gr
-import sounddevice as sd
-import speech_recognition as sr
 import os
 import requests
 from pydub import AudioSegment
